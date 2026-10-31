@@ -545,7 +545,7 @@ window.CARDS_DATA ={
       "source_name": "Boa Sandersonia",
       "category": "amazon_lily",
       "type": "character",
-      "ability": "Poison one enemy",
+      "ability": "Reflect attack to another ally",
       "ability_type": "active",
       "health": 6,
       "damage": 3,
