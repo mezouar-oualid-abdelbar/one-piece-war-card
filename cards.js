@@ -524,7 +524,7 @@ window.CARDS_DATA ={
       "source_name": "Boa Hancock",
       "category": "amazon_lily",
       "type": "character",
-      "ability": "Petrify one enemy: it skips its next attack",
+      "ability": "excute normal cards",
       "ability_type": "active",
       "health": 8,
       "damage": 4,
