@@ -1,4 +1,4 @@
-{
+window.CARDS_DATA ={
   "title": "One Piece War Cards",
   "categories": [
     {
