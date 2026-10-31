@@ -566,7 +566,7 @@ window.CARDS_DATA ={
       "source_name": "Boa Marigold",
       "category": "amazon_lily",
       "type": "character",
-      "ability": "Root one enemy for 1 turn",
+      "ability": "+2 hp for her and Boa Sandersonia if both in field",
       "ability_type": "active",
       "health": 6,
       "damage": 3,
