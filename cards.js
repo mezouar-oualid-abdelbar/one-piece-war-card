@@ -364,7 +364,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -380,7 +380,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -396,7 +396,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -412,7 +412,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -428,7 +428,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -444,7 +444,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -460,7 +460,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -476,7 +476,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -492,7 +492,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -508,7 +508,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -524,7 +524,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -540,7 +540,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -556,7 +556,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -572,7 +572,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -588,7 +588,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -604,7 +604,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -620,7 +620,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -636,7 +636,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -652,7 +652,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -668,7 +668,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -684,7 +684,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -700,7 +700,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -716,7 +716,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/8/8a/Trap_Summoning_the_Giant_Nine.png/revision/latest/scale-to-width-down/1000?cb=20250321221644",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -732,7 +732,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -748,7 +748,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -764,7 +764,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -780,7 +780,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -796,7 +796,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -812,7 +812,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -828,7 +828,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -844,7 +844,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -860,7 +860,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -876,7 +876,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -892,7 +892,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -908,7 +908,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -924,7 +924,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -940,7 +940,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -956,7 +956,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -972,7 +972,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -988,7 +988,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -1004,7 +1004,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+        "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -1020,7 +1020,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -1036,7 +1036,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -1052,7 +1052,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -1068,7 +1068,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -1084,7 +1084,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -1100,7 +1100,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -1116,7 +1116,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -1132,7 +1132,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
@@ -1148,7 +1148,7 @@ window.CARDS_DATA ={
       "health": null,
       "damage": null,
       "tags": [],
-      "image_url": "https://static.beebom.com/wp-content/uploads/2026/01/ragnir-in-one-piece.jpeg?quality=75&w=1200",
+      "image_url": "https://static.wikia.nocookie.net/onepiece/images/a/ad/Joy_Boy_Haki.png/revision/latest/scale-to-width-down/1000?cb=20251214161925",
       "image_source": "https://beebom.com/one-piece-lokis-hammer-ragnir-explained/",
       "image_style": "photo",
       "image_is_related_art": false
