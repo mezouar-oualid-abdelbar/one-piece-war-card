@@ -69,28 +69,35 @@
     @media (max-width:650px) { .banner-inner { padding:25px 19px; min-height:145px; } main { padding:20px 17px 45px; } .counter { min-width:78px; padding-left:15px; } .counter strong { font-size:27px; } .grid { grid-template-columns:repeat(auto-fill,minmax(215px,1fr)); gap:14px; } .section-head p { display:none; } }
     @media (max-width:460px) { .grid { grid-template-columns:repeat(2,minmax(0,1fr)); gap:10px; } .card { min-height:360px; padding:6px; border-radius:9px; } .card-head { min-height:51px; padding:3px 4px 6px; } .card-title { font-size:16px; } .rank { font-size:28px; } .art { height:120px; } .card-body { padding:7px; margin-top:6px; } .ability { font-size:11px; } .ability-label { margin-top:7px; } .stat-value { font-size:17px; } .stat-icon { font-size:17px; } .stat { min-width:50px; gap:4px; } .toolbar .control.search { flex-basis:100%; } .toolbar .control:not(.search) { flex:1 1 120px; } }
     @media print {
-      @page { size:A4 portrait; margin:5mm; }
-      html,body { background:white; }
-      .banner,.toolbar,.section-head,.note,.empty,.error { display:none !important; }
-      main { margin:0; padding:0; max-width:none; }
-      .grid { display:grid; grid-template-columns:repeat(3,63mm); gap:3mm; }
-      .card { width:63mm; height:88mm; min-height:88mm; padding:2mm; border-radius:2mm; box-shadow:none; print-color-adjust:exact; -webkit-print-color-adjust:exact; }
-      .card-head { min-height:12mm; padding:0 1mm 1mm; }
-      .card-title { font-size:12pt; }
-      .card-category { font-size:6pt; margin-top:1mm; }
-      .rank { font-size:20pt; text-shadow:none; print-color-adjust:exact; -webkit-print-color-adjust:exact; }
-      .art { height:29mm; border-width:1px; border-radius:1mm; }
-      .card-body { margin-top:1.5mm; padding:1.5mm 2mm; border-radius:1mm; }
-      .type-line { min-height:4mm; padding-bottom:1mm; }
-      .type,.trigger { font-size:6pt; }
-      .ability-label { margin:1mm 0 .5mm; font-size:5.5pt; }
-      .ability { font-size:7.3pt; line-height:1.2; }
-      .target { font-size:6pt; margin-top:1mm; }
-      .card-stats { padding:1mm 1mm 0; }
-      .stat-icon { font-size:12pt; }
-      .stat-value { font-size:12pt; }
-      .stat-label { font-size:5.5pt; }
-    }
+  @page { size:A4 landscape; margin:4mm; }
+  html,body { background:white; }
+  .banner,.toolbar,.section-head,.note,.empty,.error { display:none !important; }
+  main { margin:0; padding:0; max-width:none; }
+
+  /* 6 columns x 3 rows = 18 cards per page */
+  .grid { display:grid; grid-template-columns:repeat(6,46mm); grid-auto-rows:65mm; gap:2mm; justify-content:center; align-items:stretch; }
+  .card:nth-child(18n+19) { break-before:page; page-break-before:always; }
+
+  .card { width:46mm; height:65mm; min-height:0; padding:1.2mm; border-radius:1.5mm; box-shadow:none; overflow:hidden; break-inside:avoid; page-break-inside:avoid; print-color-adjust:exact; -webkit-print-color-adjust:exact; }
+  .card-head { min-height:8.5mm; padding:0 .6mm .6mm; gap:1mm; }
+  .card-title { font-size:8pt; line-height:1.1; text-shadow:none; }
+  .card-category { font-size:4.2pt; margin-top:.5mm; letter-spacing:.1em; }
+  .rank { font-size:14pt; text-shadow:none; print-color-adjust:exact; -webkit-print-color-adjust:exact; }
+
+  .art { height:20mm; border-width:.6px; border-radius:.8mm; flex-shrink:0; }
+  .card-body { margin-top:1mm; padding:1mm 1.3mm; border-radius:.8mm; overflow:hidden; min-height:0; }
+  .type-line { min-height:3mm; padding-bottom:.6mm; }
+  .type,.trigger { font-size:4.5pt; }
+  .ability-label { margin:.8mm 0 .3mm; font-size:4pt; }
+  .ability { font-size:5.4pt; line-height:1.18; }
+  .target { font-size:4.4pt; margin-top:.6mm; line-height:1.2; }
+
+  .card-stats { padding:.6mm .6mm 0; }
+  .stat { min-width:0; gap:1mm; text-shadow:none; }
+  .stat-icon { font-size:8pt; }
+  .stat-value { font-size:8.5pt; }
+  .stat-label { font-size:4pt; }
+}
   </style>
 </head>
 <body>
